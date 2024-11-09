@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tree Spotter</string>
+    <string name="map">Map</string>
+    <string name="list">List</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="give_permission">Grant location permission to add trees</string>
+    <string name="no_location">No location available</string>
+    <string name="tree_added">%1$s tree added!</string>
+    <string name="give_location_permission">Grant location permission to add trees</string>
+    <string name="delete">Delete?</string>
+    <string name="confirm_delete_tree">Delete tree %1$s?</string>
+</resources>
